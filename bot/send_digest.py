@@ -1,7 +1,7 @@
 import html
 import logging
 import os
-import time
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone, timedelta
 
 import feedparser
@@ -68,12 +68,13 @@ def main() -> None:
     new_articles = []
     seen_urls: set[str] = set()
 
-    for feed in FEEDS:
-        for article in fetch_recent_articles(feed):
-            url = article["url"]
-            if url not in seen_urls:
-                new_articles.append(article)
-                seen_urls.add(url)
+    with ThreadPoolExecutor(max_workers=len(FEEDS)) as executor:
+        for articles in executor.map(fetch_recent_articles, FEEDS):
+            for article in articles:
+                url = article["url"]
+                if url not in seen_urls:
+                    new_articles.append(article)
+                    seen_urls.add(url)
 
     log.info("Found %d recent articles (last %dh)", len(new_articles), LOOKBACK_HOURS)
 
