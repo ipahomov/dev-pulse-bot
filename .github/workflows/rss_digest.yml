@@ -2,7 +2,7 @@ name: RSS Digest
 
 on:
   schedule:
-    - cron: "0 8,10,12,14,16,18,20 * * *"  # every 2h from 08:00 to 20:00 UTC
+    - cron: "0 8,12,16,20 * * *"  # every 4h: 08:00, 12:00, 16:00, 20:00 UTC
   workflow_dispatch:       # manual trigger
 
 jobs:

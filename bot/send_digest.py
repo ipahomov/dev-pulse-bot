@@ -13,7 +13,7 @@ log = logging.getLogger(__name__)
 BOT_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
 CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 MAX_PER_RUN = 5
-LOOKBACK_HOURS = 2
+LOOKBACK_HOURS = 4
 
 FEEDS = [
     # 🔥 Java & AI — Hacker News
@@ -83,14 +83,17 @@ def main() -> None:
         log.info("Nothing new to send")
         return
 
+    lines = []
     for article in to_send:
         title = html.escape(article["title"])
-        text = f'📰 <b>{title}</b>\n🔗 {article["url"]}\n📌 {article["label"]}'
-        try:
-            send_message(text)
-            log.info("Sent: %s", article["title"])
-        except Exception as e:
-            log.error("Failed to send %s: %s", article["url"], e)
+        lines.append(f'📰 <b>{title}</b>\n🔗 {article["url"]}\n📌 {article["label"]}')
+
+    text = "\n\n".join(lines)
+    try:
+        send_message(text)
+        log.info("Sent digest with %d articles", len(to_send))
+    except Exception as e:
+        log.error("Failed to send digest: %s", e)
 
 
 if __name__ == "__main__":
