@@ -14,31 +14,29 @@ log = logging.getLogger(__name__)
 
 BOT_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
 CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
-MAX_PER_RUN = 5
+MAX_PER_RUN = 6
 MAX_PER_SOURCE = 2       # max articles from a single source label per digest
 LOOKBACK_HOURS = 24      # how far back to look in RSS feeds
 SENT_FILE = Path(__file__).parent.parent / "data" / "sent.json"
 SENT_MAX_AGE_DAYS = 7    # forget URLs older than this to keep file small
 
 FEEDS = [
-    # 🔥 Java & AI — Hacker News
-    {"url": "https://hnrss.org/newest?q=java&count=20",                    "label": "Hacker News"},
-    {"url": "https://hnrss.org/newest?q=artificial+intelligence&count=20", "label": "Hacker News"},
-
-    # 💻 Dev.to
-    {"url": "https://dev.to/feed/tag/java", "label": "Dev.to"},
-    {"url": "https://dev.to/feed/tag/ai",   "label": "Dev.to"},
-
-    # 🧠 AI core
-    {"url": "https://openai.com/blog/rss.xml",            "label": "OpenAI"},
-    {"url": "https://blog.google/technology/ai/rss/",     "label": "Google AI"},
-    {"url": "https://www.deepmind.com/blog/rss.xml",      "label": "DeepMind"},
-
-    # 📰 Новости
+    # 🤖 AI — curated
+    {"url": "https://hnrss.org/newest?q=artificial+intelligence&count=20",  "label": "Hacker News"},
+    {"url": "https://openai.com/blog/rss.xml",                              "label": "OpenAI"},
+    {"url": "https://blog.google/technology/ai/rss/",                       "label": "Google AI"},
+    {"url": "https://www.deepmind.com/blog/rss.xml",                        "label": "DeepMind"},
+    {"url": "https://simonwillison.net/atom/everything/",                   "label": "Simon Willison"},
     {"url": "https://www.technologyreview.com/topic/artificial-intelligence/feed", "label": "MIT Tech Review"},
 
-    # 🔴 Reddit
-    {"url": "https://www.reddit.com/r/java/.rss", "label": "Reddit r/java"},
+    # ☕ Java — curated
+    {"url": "https://inside.java/feed.xml",  "label": "Inside Java"},
+    {"url": "https://www.baeldung.com/feed/", "label": "Baeldung"},
+    {"url": "https://feed.infoq.com/java",   "label": "InfoQ"},
+
+    # 🟣 Dev.to — fallback
+    {"url": "https://dev.to/feed/tag/ai",   "label": "Dev.to"},
+    {"url": "https://dev.to/feed/tag/java", "label": "Dev.to"},
 ]
 
 
@@ -117,13 +115,16 @@ def fetch_feed(feed: dict) -> list[dict]:
 # ---------------------------------------------------------------------------
 
 SOURCE_ICONS: dict[str, str] = {
-    "Hacker News":    "🔶",
-    "Dev.to":         "🟣",
-    "OpenAI":         "🤖",
-    "Google AI":      "🔵",
-    "DeepMind":       "🧠",
-    "MIT Tech Review":"📡",
-    "Reddit r/java":  "🔴",
+    "Hacker News":     "🔶",
+    "Dev.to":          "🟣",
+    "OpenAI":          "🤖",
+    "Google AI":       "🔵",
+    "DeepMind":        "🧠",
+    "MIT Tech Review": "📡",
+    "Simon Willison":  "✍️",
+    "Inside Java":     "☕",
+    "Baeldung":        "☕",
+    "InfoQ":           "📊",
 }
 
 
