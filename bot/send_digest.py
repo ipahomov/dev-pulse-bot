@@ -116,6 +116,17 @@ def fetch_feed(feed: dict) -> list[dict]:
 # Formatting
 # ---------------------------------------------------------------------------
 
+SOURCE_ICONS: dict[str, str] = {
+    "Hacker News":    "🔶",
+    "Dev.to":         "🟣",
+    "OpenAI":         "🤖",
+    "Google AI":      "🔵",
+    "DeepMind":       "🧠",
+    "MIT Tech Review":"📡",
+    "Reddit r/java":  "🔴",
+}
+
+
 def format_age(published_dt: datetime | None) -> str:
     if published_dt is None:
         return ""
@@ -130,15 +141,21 @@ def format_age(published_dt: datetime | None) -> str:
 
 
 def build_message(articles: list[dict]) -> str:
-    lines = []
+    TZ_MSK = timezone(timedelta(hours=3))
+    now_msk = datetime.now(TZ_MSK)
+    header = f"🗞 <b>Dev Digest · {now_msk.strftime('%-d %b, %H:%M')}</b>\n{'━' * 16}"
+
+    lines = [header]
     for article in articles:
         title = html.escape(article["title"])
+        url = article["url"]
+        label = article["label"]
+        icon = SOURCE_ICONS.get(label, "📌")
         age = format_age(article["published_dt"])
         age_part = f" · {age}" if age else ""
         lines.append(
-            f'📰 <b>{title}</b>\n'
-            f'🔗 {article["url"]}\n'
-            f'📌 {article["label"]}{age_part}'
+            f'<a href="{url}"><b>{title}</b></a>\n'
+            f'{icon} {label}{age_part}'
         )
     return "\n\n".join(lines)
 
