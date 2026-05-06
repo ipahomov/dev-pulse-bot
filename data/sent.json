@@ -1,12 +1,4 @@
 {
-  "https://dev.to/pstayet/can-ai-agents-communicate-across-different-networks-without-apis-2fgg": "2026-04-28T20:10:33.852421+00:00",
-  "https://dev.to/michael_xero_ai/how-to-run-multiple-ai-agents-without-losing-control-k99": "2026-04-28T20:10:33.852421+00:00",
-  "https://openai.com/index/openai-on-aws": "2026-04-28T20:10:33.852421+00:00",
-  "https://dev.to/o96a/the-agent-orchestration-layer-is-finally-here-63m": "2026-04-29T09:06:32.414248+00:00",
-  "https://dev.to/tawan_shamsanor_30e1980a9/how-transformer-attention-is-computed-4cfg": "2026-04-29T09:06:32.414248+00:00",
-  "https://feeds.feedblitz.com/~/954792065/0/baeldung~Spring-AI-Series": "2026-04-29T09:06:32.414248+00:00",
-  "https://feeds.feedblitz.com/~/954788495/0/baeldung~AI-in-Java-Series": "2026-04-29T09:06:32.414248+00:00",
-  "https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything": "2026-04-29T09:06:32.414248+00:00",
   "https://dev.to/_omqxansi_258d1166f7/i-built-a-247-ai-agent-system-on-a-6month-vps-heres-the-stack-4mh": "2026-04-29T12:12:54.310760+00:00",
   "https://dev.to/alex_sebastian/use-cases-of-generative-ai-in-business-which-helps-in-digital-transformation-4o0p": "2026-04-29T12:12:54.310760+00:00",
   "https://cnti.org/issue-primers/artificial-intelligence-in-journalism/": "2026-04-29T12:12:54.310760+00:00",
@@ -112,5 +104,11 @@
   "https://dev.to/trafficmaster20261/i-tested-the-google-ai-overviews-exploit-with-github-pages-heres-my-template-2026-42i8": "2026-05-05T20:02:53.599911+00:00",
   "https://dev.to/nike-17/why-i-spun-my-benchmark-into-its-own-repo-and-why-every-dev-tool-with-a-benchmark-should-229n": "2026-05-05T20:02:53.599911+00:00",
   "https://openai.com/index/gpt-5-5-instant-system-card": "2026-05-05T20:02:53.599911+00:00",
-  "https://openai.com/index/gpt-5-5-instant": "2026-05-05T20:02:53.599911+00:00"
+  "https://openai.com/index/gpt-5-5-instant": "2026-05-05T20:02:53.599911+00:00",
+  "https://dev.to/ken_deng_ai/taming-the-ai-a-professionals-guide-to-fixing-e-book-formatting-glitches-59db": "2026-05-06T09:17:57.674529+00:00",
+  "https://dev.to/paperium/grid-a-next-generation-data-parallel-c-qcd-library-4gab": "2026-05-06T09:17:57.674529+00:00",
+  "https://www.lucasaguiar.xyz/posts/dawkins-claude-consciencia-ia/": "2026-05-06T09:17:57.674529+00:00",
+  "https://simonwillison.net/2026/May/5/datasette-referrer-policy/#atom-everything": "2026-05-06T09:17:57.674529+00:00",
+  "https://feeds.feedblitz.com/~/955344461/0/baeldung~Parallel-Testing-With-Gradle-and-JUnit": "2026-05-06T09:17:57.674529+00:00",
+  "https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything": "2026-05-06T09:17:57.674529+00:00"
 }
