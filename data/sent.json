@@ -1,10 +1,4 @@
 {
-  "https://dev.to/esqrd_co/mcp-servers-in-production-architecture-patterns-that-actually-scale-420d": "2026-05-05T16:19:31.864904+00:00",
-  "https://dev.to/everlast_ai/openai-codex-tipps-34-workflows-fur-produktive-wissensarbeit-224l": "2026-05-05T16:19:31.864904+00:00",
-  "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/": "2026-05-05T16:19:31.864904+00:00",
-  "https://simonwillison.net/2026/May/5/datasette-llm/#atom-everything": "2026-05-05T16:19:31.864904+00:00",
-  "https://simonwillison.net/2026/May/5/llm-echo/#atom-everything": "2026-05-05T16:19:31.864904+00:00",
-  "https://inside.java/2026/05/05/podcast-057/": "2026-05-05T16:19:31.864904+00:00",
   "https://dev.to/trafficmaster20261/i-tested-the-google-ai-overviews-exploit-with-github-pages-heres-my-template-2026-42i8": "2026-05-05T20:02:53.599911+00:00",
   "https://dev.to/nike-17/why-i-spun-my-benchmark-into-its-own-repo-and-why-every-dev-tool-with-a-benchmark-should-229n": "2026-05-05T20:02:53.599911+00:00",
   "https://openai.com/index/gpt-5-5-instant-system-card": "2026-05-05T20:02:53.599911+00:00",
@@ -113,5 +107,9 @@
   "https://feeds.feedblitz.com/~/955767131/0/baeldung~Synchronize-Virtual-Thread-Without-Pinning": "2026-05-12T13:01:00.663798+00:00",
   "https://feeds.feedblitz.com/~/955766681/0/baeldung~Key-Derivation-Function-API-in-Java": "2026-05-12T13:01:00.663798+00:00",
   "https://simonwillison.net/2026/May/11/llm-shebang/#atom-everything": "2026-05-12T13:01:00.663798+00:00",
-  "https://openai.com/signals/research/2026q1-update": "2026-05-12T13:01:00.663798+00:00"
+  "https://openai.com/signals/research/2026q1-update": "2026-05-12T13:01:00.663798+00:00",
+  "https://dev.to/s7shukla_upgrades_bcef77c/building-autonomous-ai-agents-with-python-a-comprehensive-guide-166c": "2026-05-12T17:03:51.473033+00:00",
+  "https://dev.to/daniloab/ai-made-software-faster-it-didnt-make-it-instant-2j77": "2026-05-12T17:03:51.473033+00:00",
+  "https://inside.java/2026/05/12/javaone-post-native-interop/": "2026-05-12T17:03:51.473033+00:00",
+  "https://feeds.feedblitz.com/~/955766684/0/baeldung~Anthropic-Agent-Skills-Support-in-Spring-AI": "2026-05-12T17:03:51.473033+00:00"
 }
