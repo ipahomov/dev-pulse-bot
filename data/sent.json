@@ -1,10 +1,4 @@
 {
-  "https://dev.to/mlxio_ai/meta-layoffs-cut-8000-jobs-to-feed-its-135b-ai-bet-3974": "2026-05-24T09:15:52.356436+00:00",
-  "https://dev.to/matias_yoon_738a24cb1190f/rokeol-llm-seseob-gaideu-v3-4jp5": "2026-05-24T09:15:52.356436+00:00",
-  "https://www.rte.ie/news/analysis-and-comment/2026/0524/1574792-tech-job-ai-analysis/": "2026-05-24T09:15:52.356436+00:00",
-  "https://inside.java/2026/05/24/javafx-accesibility-tutorials/": "2026-05-24T09:15:52.356436+00:00",
-  "https://feeds.feedblitz.com/~/957111833/0/baeldung~Getting-HTTP-Basic-Authentication-from-HttpServletRequest": "2026-05-24T09:15:52.356436+00:00",
-  "https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything": "2026-05-24T09:15:52.356436+00:00",
   "https://dev.to/workalizer/are-we-ramble-writing-our-way-to-stupidity-googles-latest-ai-bet-and-the-productivity-paradox-46a7": "2026-05-24T11:58:05.949039+00:00",
   "https://dev.to/aa_aa_f7d9c2454af1f05d828/aifinpay-the-aifinpay-sdk-provides-a-seamless-and-secure-pa-1jlp": "2026-05-24T11:58:05.949039+00:00",
   "https://dev.to/chiefmojo79/concurrency-is-byproduct-of-capability-design-not-bottleneck-to-patch-3d7b": "2026-05-24T15:56:42.990697+00:00",
@@ -106,5 +100,9 @@
   "https://dev.to/chiefmojo79/structural-exclusion-is-the-only-defense-that-scales-eb0": "2026-05-30T20:03:56.693426+00:00",
   "https://dev.to/geetansh_vikram_836d7f761/i-built-a-relationship-intelligence-crm-with-claude-code-coral-heres-the-route-2bd4": "2026-05-30T20:03:56.693426+00:00",
   "https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything": "2026-05-30T20:03:56.693426+00:00",
-  "https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything": "2026-05-30T20:03:56.693426+00:00"
+  "https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything": "2026-05-30T20:03:56.693426+00:00",
+  "https://dev.to/kesimo/how-i-escaped-tutorial-hell-and-actually-learned-to-build-ai-agents-in-2026-3j65": "2026-05-31T09:44:30.151239+00:00",
+  "https://dev.to/onecaratlabs/how-ai-reads-your-website-and-what-that-means-for-the-people-who-build-it-3h64": "2026-05-31T09:44:30.151239+00:00",
+  "https://simonwillison.net/2026/May/31/anthropic-run-rate/#atom-everything": "2026-05-31T09:44:30.151239+00:00",
+  "https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything": "2026-05-31T09:44:30.151239+00:00"
 }
