@@ -1,7 +1,4 @@
 {
-  "https://dev.to/glad_labs/deterministic-citations-and-ci-gates-for-atom-drift-2p7f": "2026-06-23T17:11:40.264881+00:00",
-  "https://dev.to/aiwave/streaming-llm-responses-with-server-sent-events-build-a-real-time-ai-chat-interface-31jl": "2026-06-23T17:11:40.264881+00:00",
-  "https://openai.com/index/gpt-5-immunology-mystery": "2026-06-23T17:11:40.264881+00:00",
   "https://dev.to/tyris_walker_663737f0ab54/vip-guest-recognition-at-scale-how-ai-voice-can-deliver-white-glove-service-on-every-inbound-call-107n": "2026-06-23T20:58:12.595697+00:00",
   "https://dev.to/tyris_walker_663737f0ab54/ai-receptionist-vs-human-host-stand-a-data-driven-cost-analysis-for-full-service-restaurants-7a0": "2026-06-23T20:58:12.595697+00:00",
   "https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything": "2026-06-23T20:58:12.595697+00:00",
@@ -107,5 +104,11 @@
   "https://dev.to/usasafebiz1250/buy-verified-paypal-accounts-for-payments-pdfusasafebiz-is-best-2nf5": "2026-06-30T17:00:55.116249+00:00",
   "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/": "2026-06-30T17:00:55.116249+00:00",
   "https://openai.com/index/how-chatgpt-adoption-has-expanded": "2026-06-30T17:00:55.116249+00:00",
-  "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug": "2026-06-30T17:00:55.116249+00:00"
+  "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug": "2026-06-30T17:00:55.116249+00:00",
+  "https://dev.to/rijultp/building-lstms-with-pytorch-and-lightning-ai-part-7-resuming-training-with-checkpoints-4bh": "2026-06-30T20:52:35.063815+00:00",
+  "https://dev.to/willianpinho/i-ran-an-mcp-gateway-production-readiness-audit-on-a-popular-open-source-llm-gateway-heres-what-3b5d": "2026-06-30T20:52:35.063815+00:00",
+  "https://simonwillison.net/2026/Jun/30/the-ai-compass/#atom-everything": "2026-06-30T20:52:35.063815+00:00",
+  "https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything": "2026-06-30T20:52:35.063815+00:00",
+  "https://openai.com/index/introducing-genebench-pro": "2026-06-30T20:52:35.063815+00:00",
+  "https://openai.com/index/genebench-pro/case-studies": "2026-06-30T20:52:35.063815+00:00"
 }
