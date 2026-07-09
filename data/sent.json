@@ -1,8 +1,4 @@
 {
-  "https://dev.to/purecast/cutting-llm-bills-by-40x-a-cloud-architects-migration-diary-4oo3": "2026-07-02T20:14:36.360818+00:00",
-  "https://dev.to/scrapemint/every-major-ats-has-a-public-json-api-for-job-openings-nobody-uses-them-f9j": "2026-07-02T20:14:36.360818+00:00",
-  "https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything": "2026-07-02T20:14:36.360818+00:00",
-  "https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything": "2026-07-02T20:14:36.360818+00:00",
   "https://dev.to/code__mancer/day-1-the-day-i-stopped-treating-memory-as-an-afterthought-4kmc": "2026-07-03T09:51:08.036269+00:00",
   "https://dev.to/scotia1973bot/i-just-made-my-mcp-server-charge-0001-per-call-here-is-how-x402-works-5cd7": "2026-07-03T09:51:08.036269+00:00",
   "https://www.bbc.com/news/articles/cj6gr0xkyr3o": "2026-07-03T09:51:08.036269+00:00",
@@ -96,5 +92,11 @@
   "https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything": "2026-07-09T17:14:10.990645+00:00",
   "https://simonwillison.net/2026/Jul/9/llm-meta-ai/#atom-everything": "2026-07-09T17:14:10.990645+00:00",
   "https://jacobin.com/2026/07/ai-policy-nationalization-commons-work": "2026-07-09T17:14:10.990645+00:00",
-  "https://openai.com/index/gpt-5-6": "2026-07-09T17:14:10.990645+00:00"
+  "https://openai.com/index/gpt-5-6": "2026-07-09T17:14:10.990645+00:00",
+  "https://dev.to/reporails/deterministic-guardrails-prompts-steer-hooks-enforce-14ag": "2026-07-09T20:42:30.699557+00:00",
+  "https://dev.to/biznode/biznode-workflow-marketplace-chain-multiple-bot-handles-into-multi-step-pipelines-client-4o25": "2026-07-09T20:42:30.699557+00:00",
+  "https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything": "2026-07-09T20:42:30.699557+00:00",
+  "https://simonwillison.net/2026/Jul/9/llm/#atom-everything": "2026-07-09T20:42:30.699557+00:00",
+  "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot": "2026-07-09T20:42:30.699557+00:00",
+  "https://openai.com/index/chatgpt-for-your-most-ambitious-work": "2026-07-09T20:42:30.699557+00:00"
 }
