@@ -1,8 +1,4 @@
 {
-  "https://dev.to/vultr/deploying-clearml-as-an-aws-sagemaker-alternative-on-ubuntu-44io": "2026-07-02T16:45:49.176568+00:00",
-  "https://dev.to/vultr/deploying-kubeflow-as-an-aws-sagemaker-alternative-4im7": "2026-07-02T16:45:49.176568+00:00",
-  "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/": "2026-07-02T16:45:49.176568+00:00",
-  "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/": "2026-07-02T16:45:49.176568+00:00",
   "https://dev.to/purecast/cutting-llm-bills-by-40x-a-cloud-architects-migration-diary-4oo3": "2026-07-02T20:14:36.360818+00:00",
   "https://dev.to/scrapemint/every-major-ats-has-a-public-json-api-for-job-openings-nobody-uses-them-f9j": "2026-07-02T20:14:36.360818+00:00",
   "https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything": "2026-07-02T20:14:36.360818+00:00",
@@ -94,5 +90,11 @@
   "https://dev.to/tom_billings_4d7afab8a8fe/ai-development-in-enterprises-benefits-challenges-and-strategy-i2b": "2026-07-09T13:44:00.338253+00:00",
   "https://dev.to/barani_kumar_c92b6890c378/10-reasons-why-car-rental-app-development-is-a-smart-investment-in-2026-2in3": "2026-07-09T13:44:00.338253+00:00",
   "https://gov-pritzker-newsroom.prezly.com/gov-pritzker-signs-nation-leading-artificial-intelligence-safety-law": "2026-07-09T13:44:00.338253+00:00",
-  "https://www.nytimes.com/2026/07/08/opinion/openai-anthropic-palantir-alex-karp.html": "2026-07-09T13:44:00.338253+00:00"
+  "https://www.nytimes.com/2026/07/08/opinion/openai-anthropic-palantir-alex-karp.html": "2026-07-09T13:44:00.338253+00:00",
+  "https://dev.to/noodle/managing-ai-in-a-mixed-team-2009": "2026-07-09T17:14:10.990645+00:00",
+  "https://dev.to/printo_tom/supercharging-net-development-with-github-copilot-and-testcontainers-4ml6": "2026-07-09T17:14:10.990645+00:00",
+  "https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything": "2026-07-09T17:14:10.990645+00:00",
+  "https://simonwillison.net/2026/Jul/9/llm-meta-ai/#atom-everything": "2026-07-09T17:14:10.990645+00:00",
+  "https://jacobin.com/2026/07/ai-policy-nationalization-commons-work": "2026-07-09T17:14:10.990645+00:00",
+  "https://openai.com/index/gpt-5-6": "2026-07-09T17:14:10.990645+00:00"
 }
