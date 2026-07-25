@@ -1,6 +1,4 @@
 {
-  "https://dev.to/farhanward/al-munaa-a-collective-immune-system-for-ai-agents-37fb": "2026-07-18T20:00:11.884817+00:00",
-  "https://dev.to/eric-evidence-gate/9-checks-before-you-launch-an-ai-built-web-app-1852": "2026-07-18T20:00:11.884817+00:00",
   "https://dev.to/turva-dev/how-to-get-your-site-cited-by-ai-assistants-35f1": "2026-07-19T09:01:46.890272+00:00",
   "https://dev.to/davidarchanjo/langgraph-explained-a-practical-guide-for-beginners-1cmn": "2026-07-19T09:01:46.890272+00:00",
   "https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything": "2026-07-19T09:01:46.890272+00:00",
@@ -100,5 +98,9 @@
   "https://inside.java/2026/07/25/design-java-mcp-tool/": "2026-07-25T11:58:13.957444+00:00",
   "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything": "2026-07-25T11:58:13.957444+00:00",
   "https://dev.to/themassiveone/what-if-mcp-could-manage-your-entire-development-runtime-1k8l": "2026-07-25T15:58:07.858777+00:00",
-  "https://dev.to/emmanuel_joshua_b3935fe49/we-asked-signoz-how-to-flag-a-hallucinating-agent-they-said-we-havent-figured-that-out-so-we-105c": "2026-07-25T15:58:07.858777+00:00"
+  "https://dev.to/emmanuel_joshua_b3935fe49/we-asked-signoz-how-to-flag-a-hallucinating-agent-they-said-we-havent-figured-that-out-so-we-105c": "2026-07-25T15:58:07.858777+00:00",
+  "https://dev.to/amanm006/i-built-an-ai-agent-guardrail-then-discovered-my-observer-was-watching-itself-3j4d": "2026-07-25T20:07:25.712440+00:00",
+  "https://dev.to/apogeewatcher/mcp-versus-api-what-assistants-need-that-your-rest-endpoints-do-not-spell-out-2n5j": "2026-07-25T20:07:25.712440+00:00",
+  "https://feeds.feedblitz.com/~/963082187/0/baeldung": "2026-07-25T20:07:25.712440+00:00",
+  "https://feeds.feedblitz.com/~/963082190/0/baeldung": "2026-07-25T20:07:25.712440+00:00"
 }
