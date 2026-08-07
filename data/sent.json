@@ -1,11 +1,4 @@
 {
-  "https://dev.to/tokencnn/why-every-major-chinese-ai-lab-uses-moe-and-what-that-means-for-your-inference-costs-3he": "2026-07-30T16:21:04.137643+00:00",
-  "https://dev.to/paulcrinigan/your-ai-memory-store-needs-a-delete-key-23k0": "2026-07-30T16:21:04.137643+00:00",
-  "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/": "2026-07-30T16:21:04.137643+00:00",
-  "https://dev.to/blobxiaoyao/i-stopped-prompting-blind-heres-the-system-that-changed-how-i-use-ai-2dml": "2026-07-30T20:11:45.438554+00:00",
-  "https://dev.to/pyfiletoolkit/i-built-3-chatgpt-prompt-libraries-in-2-hours-heres-how-you-can-too-2026": "2026-07-30T20:11:45.438554+00:00",
-  "https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything": "2026-07-30T20:11:45.438554+00:00",
-  "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6": "2026-07-30T20:11:45.438554+00:00",
   "https://openai.com/index/advancing-responsible-ai-across-europe": "2026-07-31T09:37:21.147765+00:00",
   "https://dev.to/rishi_kora/break-into-ai-agent-security-the-proof-of-work-path-1d2h": "2026-07-31T09:37:21.147765+00:00",
   "https://dev.to/devsk001/tanstack-stopped-using-rsc-3kmg": "2026-07-31T09:37:21.147765+00:00",
@@ -116,5 +109,11 @@
   "https://dev.to/mahnoor_shahid_3db36c7d02/how-i-build-an-automation-center-of-excellence-that-doesnt-turn-into-a-bureaucratic-nightmare-2n51": "2026-08-06T12:51:53.156062+00:00",
   "https://inside.java/2026/08/06/podcast-065/": "2026-08-06T12:51:53.156062+00:00",
   "https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything": "2026-08-06T12:51:53.156062+00:00",
-  "https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything": "2026-08-06T12:51:53.156062+00:00"
+  "https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything": "2026-08-06T12:51:53.156062+00:00",
+  "https://dev.to/wowsql/wowsql-the-open-alternative-to-supabase-and-firebase-built-for-modern-developers-50dl": "2026-08-07T00:36:19.614915+00:00",
+  "https://dev.to/hammertoe/teaching-an-audio-model-more-about-barbados-32o2": "2026-08-07T00:36:19.614915+00:00",
+  "https://simonwillison.net/2026/Aug/6/datasette/#atom-everything": "2026-08-07T00:36:19.614915+00:00",
+  "https://simonwillison.net/2026/Aug/6/datasette-2/#atom-everything": "2026-08-07T00:36:19.614915+00:00",
+  "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/": "2026-08-07T00:36:19.614915+00:00",
+  "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt": "2026-08-07T00:36:19.614915+00:00"
 }
