@@ -1,9 +1,4 @@
 {
-  "https://dev.to/gentic_news/deepseek-v4-flash-open-sourced-304b-model-beats-v4-pro-at-014-5dc1": "2026-08-03T10:34:13.032721+00:00",
-  "https://dev.to/gentic_news/federated-mcp-servers-how-to-scale-claude-code-from-monolith-to-3l1": "2026-08-03T10:34:13.032721+00:00",
-  "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/": "2026-08-03T10:34:13.032721+00:00",
-  "https://www.infoq.com/news/2026/08/embabel-1/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Java": "2026-08-03T10:34:13.032721+00:00",
-  "https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything": "2026-08-03T10:34:13.032721+00:00",
   "https://dev.to/biffer_rowley_4cdbf203087/step-by-step-walkthrough-building-a-30-day-autopilot-video-queue-on-shadowsocialio-3ejj": "2026-08-03T13:33:41.397610+00:00",
   "https://dev.to/yossuf_yahya_18a700ec83d8/how-we-designed-shared-lessons-for-ai-agents-without-trusting-every-write-back-4oi6": "2026-08-03T13:33:41.397610+00:00",
   "https://www.infoq.com/podcasts/feature-evolution-performance-transition-endive/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Java": "2026-08-03T13:33:41.397610+00:00",
@@ -110,5 +105,11 @@
   "https://dev.to/hs_sandesh_d38f900f7bfc25/the-architecture-behind-a-deterministic-vedic-astrology-ai-system-45kb": "2026-08-10T08:21:57.323173+00:00",
   "https://www.abc.net.au/news/2026-08-10/artificial-intelligence-royal-commission-announced-in-sa/107017502": "2026-08-10T08:21:57.323173+00:00",
   "https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything": "2026-08-10T08:21:57.323173+00:00",
-  "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything": "2026-08-10T08:21:57.323173+00:00"
+  "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything": "2026-08-10T08:21:57.323173+00:00",
+  "https://dev.to/eva_clari_289d85ecc68da48/inside-the-agentic-coding-stack-terminal-agents-ides-and-cheap-models-working-together-4mdj": "2026-08-10T11:41:56.817850+00:00",
+  "https://dev.to/shrouwoods/one-agent-one-repo-one-writer-at-a-time-1o1f": "2026-08-10T11:41:56.817850+00:00",
+  "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/": "2026-08-10T11:41:56.817850+00:00",
+  "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/": "2026-08-10T11:41:56.817850+00:00",
+  "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything": "2026-08-10T11:41:56.817850+00:00",
+  "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything": "2026-08-10T11:41:56.817850+00:00"
 }
