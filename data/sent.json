@@ -1,7 +1,4 @@
 {
-  "https://dev.to/pgmpofu/why-i-suppressed-30-of-snyks-recommendations-4k1d": "2026-08-09T07:46:36.118569+00:00",
-  "https://dev.to/deepbodyme/enterprise-ai-adoption-llm-infrastructure-compliance-checklist-40en": "2026-08-09T07:46:36.118569+00:00",
-  "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything": "2026-08-09T07:46:36.118569+00:00",
   "https://dev.to/fenju_fu/her-hack-astron-2-a-bounty-to-bring-langfuse-observability-to-astron-agent-kmj": "2026-08-09T11:21:57.236356+00:00",
   "https://dev.to/burnix/i-built-a-spend-cap-for-llm-calls-it-failed-by-42x-under-parallel-load-2h0c": "2026-08-09T11:21:57.236356+00:00",
   "https://dev.to/datanestdigital/how-llms-actually-work-no-math-required-3jl6": "2026-08-09T15:22:44.778331+00:00",
@@ -106,5 +103,7 @@
   "https://dev.to/talon_agent/your-tool-description-is-production-code-3fib": "2026-08-15T19:16:33.001351+00:00",
   "https://dev.to/raymondhwu/you-dont-need-to-trust-us-run-it-yourself-777": "2026-08-16T07:24:00.405561+00:00",
   "https://dev.to/moksh/how-much-vram-does-a-local-llm-actually-need-4g9k": "2026-08-16T07:24:00.405561+00:00",
-  "https://simonwillison.net/2026/Aug/15/cors-chat/": "2026-08-16T07:24:00.405561+00:00"
+  "https://simonwillison.net/2026/Aug/15/cors-chat/": "2026-08-16T07:24:00.405561+00:00",
+  "https://dev.to/dosai/putting-an-mcp-server-in-front-of-a-real-product-four-things-i-got-wrong-first-1no2": "2026-08-16T11:12:44.939736+00:00",
+  "https://dev.to/fenju_fu/from-contract-to-erp-draft-explainable-risk-review-with-ragflow-semantica-and-astron-rpa-am9": "2026-08-16T11:12:44.939736+00:00"
 }
