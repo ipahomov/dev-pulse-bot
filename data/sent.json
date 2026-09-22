@@ -1,10 +1,4 @@
 {
-  "https://dev.to/zaerohell/isolating-multi-tenant-email-cron-jobs-in-a-nextjsnode-monorepo-mle": "2026-09-15T18:38:30.199588+00:00",
-  "https://dev.to/neha_maurya/what-if-a-transformer-never-had-to-forget-meet-the-recurrent-looped-transformer-rlt-43oh": "2026-09-15T18:38:30.199588+00:00",
-  "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/": "2026-09-15T18:38:30.199588+00:00",
-  "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/": "2026-09-15T18:38:30.199588+00:00",
-  "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/": "2026-09-15T18:38:30.199588+00:00",
-  "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/": "2026-09-15T18:38:30.199588+00:00",
   "https://dev.to/vladimir_lialine_b2e67374/portfolio-stress-testing-essential-black-swan-defense-3mme": "2026-09-15T21:52:29.199816+00:00",
   "https://dev.to/golden_shores_agentics/verifying-a-us-healthcare-provider-from-an-ai-agent-in-one-call-npi-oig-exclusion-check-531l": "2026-09-15T21:52:29.199816+00:00",
   "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/": "2026-09-15T21:52:29.199816+00:00",
@@ -100,5 +94,9 @@
   "https://simonwillison.net/2026/Sep/22/therealcornpop/": "2026-09-22T18:25:56.184814+00:00",
   "https://simonwillison.net/2026/Sep/22/llm-typesafe/": "2026-09-22T18:25:56.184814+00:00",
   "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/": "2026-09-22T18:25:56.184814+00:00",
-  "https://openai.com/index/priorities-principles-third-party-assessments": "2026-09-22T18:25:56.184814+00:00"
+  "https://openai.com/index/priorities-principles-third-party-assessments": "2026-09-22T18:25:56.184814+00:00",
+  "https://dev.to/vladimir_lialine_b2e67374/portfolio-stress-testing-essential-crash-simulations-29l6": "2026-09-22T21:44:07.309929+00:00",
+  "https://dev.to/anas_hamad_a250d89775e242/breaking-openai-launches-gpt-6-at-nearly-half-the-price-19a4": "2026-09-22T21:44:07.309929+00:00",
+  "https://openai.com/index/better-prompt-caching-for-gpt-6": "2026-09-22T21:44:07.309929+00:00",
+  "https://openai.com/index/introducing-gpt-6-sol-and-luna": "2026-09-22T21:44:07.309929+00:00"
 }
