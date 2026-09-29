@@ -2,7 +2,7 @@ name: RSS Digest
 
 on:
   schedule:
-    - cron: "0 7,11,15,19 * * *"  # every 4h: 7:00, 11:00, 15:00, 19:00 UTC
+    - cron: "17 8,15 * * *"  # 2x/day: 8:17, 15:17 UTC = 10:17, 17:17 Poland (CEST); 9:17, 16:17 in winter (CET) (off-the-hour to reduce GitHub scheduling delays)
   workflow_dispatch:       # manual trigger
 
 permissions:

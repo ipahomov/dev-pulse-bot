@@ -5,7 +5,7 @@ No server. No database. Completely free.
 
 ## How it works
 
-1. GitHub Actions runs on cron — every 4 hours (07:00, 11:00, 15:00, 19:00 UTC)
+1. GitHub Actions runs on cron — twice a day (08:17, 15:17 UTC)
 2. Python script fetches RSS feeds in parallel
 3. Articles already sent (tracked in `data/sent.json`) are skipped
 4. Remaining articles are sorted by publish date — freshest first
