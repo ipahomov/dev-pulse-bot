@@ -1,10 +1,4 @@
 {
-  "https://dev.to/cortia/what-actually-persists-when-i-rewrite-the-plan-557e": "2026-10-05T17:10:01.789252+00:00",
-  "https://dev.to/airabbit/cloudflare-just-shipped-two-decision-models-i-raced-them-against-jev-3pgh": "2026-10-05T17:10:01.789252+00:00",
-  "https://www.infoq.com/news/2026/10/java-news-roundup-sep28-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Java": "2026-10-05T17:10:01.789252+00:00",
-  "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/": "2026-10-05T17:10:01.789252+00:00",
-  "https://openai.com/index/eu-text-provenance": "2026-10-05T17:10:01.789252+00:00",
-  "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/": "2026-10-05T17:10:01.789252+00:00",
   "https://dev.to/gde/gemma-4-inference-on-aws-bedrock-sagemaker-gpus-inferentia-and-trainium-behind-one-strands-agent-2lnm": "2026-10-06T15:13:52.298847+00:00",
   "https://dev.to/thesiliconarchitect/rag-retrieval-strategies-on-a-50k-document-dataset-bm25-vs-dense-vs-hybrid-ejj": "2026-10-06T15:13:52.298847+00:00",
   "https://inside.java/2026/10/06/jep542-target-jdk28/": "2026-10-06T15:13:52.298847+00:00",
@@ -49,5 +43,9 @@
   "https://inside.java/2026/10/11/devoxxbelgium-runtime-year-keynite/": "2026-10-11T14:55:27.420846+00:00",
   "https://simonwillison.net/2026/Oct/10/python-actions/": "2026-10-11T14:55:27.420846+00:00",
   "https://dev.to/rdsuhe_jbxhsv_9402485a1de/best-place-for-provide-digital-service-43f6": "2026-10-11T19:34:08.818305+00:00",
-  "https://dev.to/gartox/guardabosque-an-offline-nature-guide-for-tabascos-jungles-powered-by-gemma-running-on-my-laptop-4nc6": "2026-10-11T19:34:08.818305+00:00"
+  "https://dev.to/gartox/guardabosque-an-offline-nature-guide-for-tabascos-jungles-powered-by-gemma-running-on-my-laptop-4nc6": "2026-10-11T19:34:08.818305+00:00",
+  "https://dev.to/vashisth12/building-at-the-intersection-why-aiot-is-reshaping-the-physical-world-1ij2": "2026-10-12T17:56:17.753191+00:00",
+  "https://dev.to/tali_from_portali/the-2-am-text-that-found-a-2340-double-charge-2968": "2026-10-12T17:56:17.753191+00:00",
+  "https://www.infoq.com/news/2026/10/java-news-roundup-oct05-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Java": "2026-10-12T17:56:17.753191+00:00",
+  "https://inside.java/2026/10/12/devoxxbelgium-structured-concurrency/": "2026-10-12T17:56:17.753191+00:00"
 }
