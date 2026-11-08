@@ -1,11 +1,4 @@
 {
-  "https://dev.to/steve2700/im-a-carpenter-who-built-a-quoting-app-for-south-african-tradespeople-15ae": "2026-11-01T15:10:50.675778+00:00",
-  "https://dev.to/imapphelp/why-my-new-short-leads-with-1257-a-number-you-cant-use-4f8h": "2026-11-01T15:10:50.675778+00:00",
-  "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/": "2026-11-01T15:10:50.675778+00:00",
-  "https://simonwillison.net/2026/Oct/31/datasette-llm/": "2026-11-01T15:10:50.675778+00:00",
-  "https://dev.to/johann_schiffer/eliminating-ai-coding-loops-deterministic-flight-recording-polyglot-blast-radius-with-4j76": "2026-11-01T19:41:14.135665+00:00",
-  "https://dev.to/m5dev/the-2026-js-desktop-runtime-showdown-electron-vs-nwjs-vs-neutralino-vs-adrenaline-2l96": "2026-11-01T19:41:14.135665+00:00",
-  "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/": "2026-11-01T19:41:14.135665+00:00",
   "https://dev.to/ashish_624379625242c5d263/quand-lia-repousse-les-frontieres-et-que-nos-ecrans-restent-plats-mon-entree-dans-la-molecule-3cob": "2026-11-02T18:24:28.636354+00:00",
   "https://dev.to/dev_barron/peer-code-review-5-approaches-compared-from-async-prs-to-ai-first-review-1fk": "2026-11-02T18:24:28.636354+00:00",
   "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/": "2026-11-02T18:24:28.636354+00:00",
@@ -40,5 +33,11 @@
   "https://www.baeldung.com/java-weekly-670": "2026-11-07T14:54:41.337670+00:00",
   "https://simonwillison.net/2026/Nov/6/nilay-patel/": "2026-11-07T14:54:41.337670+00:00",
   "https://dev.to/nlocoding/ai-code-generation-tools-for-developers-expert-guide-2026-234m": "2026-11-07T19:26:17.361726+00:00",
-  "https://dev.to/strandscribe/metas-andromeda-engine-nudges-facebook-ads-up-24-438a": "2026-11-07T19:26:17.361726+00:00"
+  "https://dev.to/strandscribe/metas-andromeda-engine-nudges-facebook-ads-up-24-438a": "2026-11-07T19:26:17.361726+00:00",
+  "https://dev.to/toai/mitigating-redis-cache-stampedes-via-ttl-jitter-implementation-patterns-post-mortem-and-graceful-2i9i": "2026-11-08T19:43:03.864566+00:00",
+  "https://dev.to/joor0x/the-mythosfable-blockade-how-us-ai-exceptionalism-builds-its-own-rivals-1a9f": "2026-11-08T19:43:03.864566+00:00",
+  "https://www.baeldung.com/maven-pom-missing-tools-jar": "2026-11-08T19:43:03.864566+00:00",
+  "https://www.baeldung.com/selenium-webdriver-automate-shadow-dom": "2026-11-08T19:43:03.864566+00:00",
+  "https://inside.java/2026/11/08/devoxxbelgium-java-next-programming-models/": "2026-11-08T19:43:03.864566+00:00",
+  "https://simonwillison.net/2026/Nov/7/link-rel-next/": "2026-11-08T19:43:03.864566+00:00"
 }
