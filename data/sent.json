@@ -1,10 +1,4 @@
 {
-  "https://dev.to/yodev_grego/chrome-devtools-mcp-para-agentes-lo-probamos-y-asi-maneja-dialogos-y-consola-yodev-tested-7cg": "2026-11-03T16:16:02.777860+00:00",
-  "https://dev.to/grfdsasdvef/clickhouse-vs-duckdb-embedded-analytical-processing-vs-distributed-server-scale-43kp": "2026-11-03T16:16:02.777860+00:00",
-  "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/": "2026-11-03T16:16:02.777860+00:00",
-  "https://openai.com/index/heimstaden": "2026-11-03T16:16:02.777860+00:00",
-  "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/": "2026-11-03T16:16:02.777860+00:00",
-  "https://simonwillison.net/2026/Nov/3/october-newsletter/": "2026-11-03T16:16:02.777860+00:00",
   "https://dev.to/anciwasim/handoff-note-multi-agent-systems-fail-at-the-seams-22if": "2026-11-04T16:20:14.273908+00:00",
   "https://dev.to/cvlmtg/writing-a-text-editor-in-the-age-of-agentic-programming-294k": "2026-11-04T16:20:14.273908+00:00",
   "https://openai.com/index/openai-to-acquire-pierre": "2026-11-04T16:20:14.273908+00:00",
@@ -39,5 +33,11 @@
   "https://www.infoq.com/news/2026/11/java-news-roundup-nov02-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Java": "2026-11-09T18:49:30.264113+00:00",
   "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/": "2026-11-09T18:49:30.264113+00:00",
   "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/": "2026-11-09T18:49:30.264113+00:00",
-  "https://www.infoq.com/podcasts/distributed-llm-inference-kubernetes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Java": "2026-11-09T18:49:30.264113+00:00"
+  "https://www.infoq.com/podcasts/distributed-llm-inference-kubernetes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Java": "2026-11-09T18:49:30.264113+00:00",
+  "https://dev.to/endevsols/ai-invoice-processing-ocr-vs-llms-accuracy-and-real-costs-pi3": "2026-11-10T16:26:31.412562+00:00",
+  "https://dev.to/eme_gug_0821b41b948be6516/llm-routing-on-a-budget-stop-sending-every-request-to-your-most-expensive-model-2kp8": "2026-11-10T16:26:31.412562+00:00",
+  "https://deepmind.google/blog/gemini-4-carbon-is-now-available/": "2026-11-10T16:26:31.412562+00:00",
+  "https://www.insideprivacy.com/artificial-intelligence/pennsylvania-enacts-artificial-intelligence-deceptive-advertising-act/": "2026-11-10T16:26:31.412562+00:00",
+  "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/": "2026-11-10T16:26:31.412562+00:00",
+  "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/": "2026-11-10T16:26:31.412562+00:00"
 }
