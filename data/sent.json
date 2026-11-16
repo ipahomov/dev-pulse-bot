@@ -1,10 +1,4 @@
 {
-  "https://dev.to/toai/mitigating-redis-cache-stampedes-via-ttl-jitter-implementation-patterns-post-mortem-and-graceful-2i9i": "2026-11-08T19:43:03.864566+00:00",
-  "https://dev.to/joor0x/the-mythosfable-blockade-how-us-ai-exceptionalism-builds-its-own-rivals-1a9f": "2026-11-08T19:43:03.864566+00:00",
-  "https://www.baeldung.com/maven-pom-missing-tools-jar": "2026-11-08T19:43:03.864566+00:00",
-  "https://www.baeldung.com/selenium-webdriver-automate-shadow-dom": "2026-11-08T19:43:03.864566+00:00",
-  "https://inside.java/2026/11/08/devoxxbelgium-java-next-programming-models/": "2026-11-08T19:43:03.864566+00:00",
-  "https://simonwillison.net/2026/Nov/7/link-rel-next/": "2026-11-08T19:43:03.864566+00:00",
   "https://dev.to/vaibhav_verma_2f309030365/conflicting-source-data-needs-a-resolution-record-not-an-average-2a1b": "2026-11-09T18:49:30.264113+00:00",
   "https://dev.to/mycute_97b39c4e34027570f9/4-bit-naive-bayes-works-on-sms-fails-on-ag-news-4p62": "2026-11-09T18:49:30.264113+00:00",
   "https://www.infoq.com/news/2026/11/java-news-roundup-nov02-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Java": "2026-11-09T18:49:30.264113+00:00",
@@ -49,5 +43,11 @@
   "https://dev.to/murthyg/one-jira-ticket-through-an-org-of-ai-agents-the-architecture-ib3": "2026-11-15T15:40:00.725079+00:00",
   "https://dev.to/lu1tr0n/rope-como-la-mayoria-de-los-llm-abiertos-ubican-cada-token-3lmn": "2026-11-15T15:40:00.725079+00:00",
   "https://simonwillison.net/2026/Nov/14/datasette-llm/": "2026-11-15T15:40:00.725079+00:00",
-  "https://simonwillison.net/2026/Nov/14/datasette-vega/": "2026-11-15T15:40:00.725079+00:00"
+  "https://simonwillison.net/2026/Nov/14/datasette-vega/": "2026-11-15T15:40:00.725079+00:00",
+  "https://dev.to/aitoolsteps/how-to-use-huntmonitor-ai-for-beginners-3nlm": "2026-11-16T18:33:28.530301+00:00",
+  "https://dev.to/aisurfer/building-a-finance-mcp-connector-the-simulation-does-the-math-the-llm-does-the-words-hff": "2026-11-16T18:33:28.530301+00:00",
+  "https://openai.com/index/expanding-chatgpt-for-academic-researchers": "2026-11-16T18:33:28.530301+00:00",
+  "https://openai.com/index/strengthening-online-child-safety": "2026-11-16T18:33:28.530301+00:00",
+  "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/": "2026-11-16T18:33:28.530301+00:00",
+  "https://www.infoq.com/news/2026/11/java-news-roundup-nov09-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Java": "2026-11-16T18:33:28.530301+00:00"
 }
