@@ -1,16 +1,4 @@
 {
-  "https://dev.to/vaibhav_verma_2f309030365/conflicting-source-data-needs-a-resolution-record-not-an-average-2a1b": "2026-11-09T18:49:30.264113+00:00",
-  "https://dev.to/mycute_97b39c4e34027570f9/4-bit-naive-bayes-works-on-sms-fails-on-ag-news-4p62": "2026-11-09T18:49:30.264113+00:00",
-  "https://www.infoq.com/news/2026/11/java-news-roundup-nov02-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Java": "2026-11-09T18:49:30.264113+00:00",
-  "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/": "2026-11-09T18:49:30.264113+00:00",
-  "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/": "2026-11-09T18:49:30.264113+00:00",
-  "https://www.infoq.com/podcasts/distributed-llm-inference-kubernetes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Java": "2026-11-09T18:49:30.264113+00:00",
-  "https://dev.to/endevsols/ai-invoice-processing-ocr-vs-llms-accuracy-and-real-costs-pi3": "2026-11-10T16:26:31.412562+00:00",
-  "https://dev.to/eme_gug_0821b41b948be6516/llm-routing-on-a-budget-stop-sending-every-request-to-your-most-expensive-model-2kp8": "2026-11-10T16:26:31.412562+00:00",
-  "https://deepmind.google/blog/gemini-4-carbon-is-now-available/": "2026-11-10T16:26:31.412562+00:00",
-  "https://www.insideprivacy.com/artificial-intelligence/pennsylvania-enacts-artificial-intelligence-deceptive-advertising-act/": "2026-11-10T16:26:31.412562+00:00",
-  "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/": "2026-11-10T16:26:31.412562+00:00",
-  "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/": "2026-11-10T16:26:31.412562+00:00",
   "https://openai.com/index/gilbert-tobin-sam-nickless": "2026-11-11T16:10:54.178538+00:00",
   "https://dev.to/cryptopunk_dz2_bd054446a6/our-ai-memory-finds-about-as-much-as-mem0-and-says-i-dont-know-three-times-as-often-when-the-2d5k": "2026-11-11T16:10:54.178538+00:00",
   "https://dev.to/tokenlab/we-let-an-ai-team-run-growth-for-12-weeks-here-is-what-it-actually-measured-fni": "2026-11-11T16:10:54.178538+00:00",
@@ -49,5 +37,11 @@
   "https://openai.com/index/expanding-chatgpt-for-academic-researchers": "2026-11-16T18:33:28.530301+00:00",
   "https://openai.com/index/strengthening-online-child-safety": "2026-11-16T18:33:28.530301+00:00",
   "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/": "2026-11-16T18:33:28.530301+00:00",
-  "https://www.infoq.com/news/2026/11/java-news-roundup-nov09-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Java": "2026-11-16T18:33:28.530301+00:00"
+  "https://www.infoq.com/news/2026/11/java-news-roundup-nov09-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Java": "2026-11-16T18:33:28.530301+00:00",
+  "https://dev.to/beanstechbr/guardrail-for-municipal-government-g4o": "2026-11-17T17:38:04.567754+00:00",
+  "https://dev.to/beanstechbr/guardrail-as-http-proxy-2nnn": "2026-11-17T17:38:04.567754+00:00",
+  "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/": "2026-11-17T17:38:04.567754+00:00",
+  "https://simonwillison.net/2026/Nov/17/datasette-lite/": "2026-11-17T17:38:04.567754+00:00",
+  "https://www.technologyreview.com/2026/11/17/1148203/research-reports/": "2026-11-17T17:38:04.567754+00:00",
+  "https://simonwillison.net/2026/Nov/17/go-proverbs/": "2026-11-17T17:38:04.567754+00:00"
 }
